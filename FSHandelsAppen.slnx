@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FSHandelsAppen.Api/FSHandelsAppen.Api.csproj" />
+  <Project Path="FSHandelsAppen.Client/FSHandelsAppen.Client.csproj" />
+  <Project Path="FSHandelsAppen.Shared/FSHandelsAppen.Shared.csproj" />
+  <Project Path="FSHandelsAppen.Tests/FSHandelsAppen.Tests.csproj" />
+</Solution>
